@@ -2,7 +2,7 @@
 """
 --------------------- TITLE ------------------------
 Project Euler: Mathematical problem-solving by computer 
----- Problem 2: Largest Prime Factor ----
+---- Problem 3: Largest Prime Factor ----
 ----------------------------------------------------
 
 ------- Author(s) --------
